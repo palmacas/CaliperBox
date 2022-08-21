@@ -5,4 +5,4 @@
 Long story short: The plastic box where I keep my vernier caliper broke (the hinges doesn't work as well), so I made a 3D printed version on PLA, and instead of using hinges I used 16 neodymiun magnets to keep the box closed.
 
 More information:  
-[Caja de Calibrador Impresa en 3D [Spanish]](https://palmacas.com/caja-calibrador/)
+[3D Printed Caliper Box](https://palmacas.com/caliper-box/) [[Spanish]](https://palmacas.com/caja-calibrador/)
